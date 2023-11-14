@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.9em;
+    
+}
+p{line-height: 2;}
+.head {
+    background: #3865d1;
+    color: #fff;
+    height: 100px;
+    padding: 30px;
+}
+
+.links {
+    background-color: #203e8b;
+    padding: 20px;
+}
+
+.links a {
+    color: #Fff;
+    margin: 15px;
+    text-decoration: none;
+}
+
+.contain {
+    padding: 20px;
+}
+
+.contain div>h2 {
+    padding: 10px;
+    margin: 20px 0;
+    background: linear-gradient(0deg, rgb(255, 255, 255)0%, rgb(227, 232, 250)100%);
+}
+
+.contain button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #00358a;
+}
